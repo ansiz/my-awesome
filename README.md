@@ -18,3 +18,9 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [URIParser.js](https://gist.github.com/ansiz/1575e41509a370b003fbe8b7ac1221c7) - JavaScript URI parser in regular expressions.
 
 ## Library
+
+- [pty](https://github.com/kr/pty) - Pty is a Go package for using unix pseudo-terminals.
+
+## Project/Product
+
+- [pcocc](https://github.com/cea-hpc/pcocc) - Run VMs on an HPC cluster
