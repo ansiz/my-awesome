@@ -11,7 +11,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [Bat](https://github.com/sharkdp/bat) - A cat(1) clone with syntax highlighting and Git integration.
 - [FiraCode](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
 
-## Code snippet/scripts
+## Script/Code snippet
 
 - [go-shadowsocks-install.sh](https://gist.github.com/ansiz/101e876264699b42e07c00b9286f171b) - Install shadowsocks server rapidly.
 - [openvpn-install.sh](https://gist.github.com/ansiz/c08098eaf5d666f04dbb2bb6425c4db9) - Install OpenVPN server rapidly.
@@ -24,3 +24,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 ## Project/Product
 
 - [pcocc](https://github.com/cea-hpc/pcocc) - Run VMs on an HPC cluster
+
+## Demo/Inspiration
+
+- [socker](https://github.com/unioslo/socker) - A wrapper for secure running of Docker containers on Slurm
