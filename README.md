@@ -7,11 +7,16 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 ## Framework/SDK
 
 - [Gophercloud](https://github.com/gophercloud/gophercloud) - Gophercloud is an OpenStack Go SDK.
+- [Beego](https://github.com/astaxie/beego) - beego is used for rapid development of RESTful APIs, web apps and backend services in Go.
+- [rpcx](https://github.com/smallnest/rpcx) - Faster multil-language bidirectional RPC framework in Go, like alibaba Dubbo and weibo Motan in Java, but with more features, Scale easily.
 
 ## Tool
 
+- [webhook](https://github.com/adnanh/webhook) - webhook is a lightweight configurable incoming webhook server which can execute shell commands.
 - [Bat](https://github.com/sharkdp/bat) - A cat(1) clone with syntax highlighting and Git integration.
-- [FiraCode](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
+- [FiraCode](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures.
+- [cloud-init](https://github.com/cloud-init/cloud-init) - The defacto multi-distribution package that handles early initialization of a cloud instance.
+- [go-proxy](https://github.com/snail007/goproxy) - Proxy is a high performance HTTP(S), websocket, TCP, UDP, Socks5 proxy server implemented by golang.
 
 ## Script/Code snippet
 
@@ -46,6 +51,6 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 
 ## Learn/Book/List
 
-
 - [awesome-ui](https://github.com/tipoqueno/awesome-ui) - A curated list of awesome things related to User Interface Design.
 - [react-native-guide](https://github.com/reactnativecn/react-native-guide) - React Native指南汇集了各类react-native学习资源、开源App和组件.
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
