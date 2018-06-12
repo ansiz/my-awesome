@@ -4,9 +4,15 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 
 -----
 
+## Emoji Icon
+
+- I have used： :white_check_mark:
+- Nice: :+1:
+- Funny: :stuck_out_tongue:
+
 ## Framework/SDK
 
-- [Gophercloud](https://github.com/gophercloud/gophercloud) - Gophercloud is an OpenStack Go SDK.
+- [Gophercloud](https://github.com/gophercloud/gophercloud) - :white_check_mark: Gophercloud is an OpenStack Go SDK.
 - [Beego](https://github.com/astaxie/beego) - beego is used for rapid development of RESTful APIs, web apps and backend services in Go.
 - [rpcx](https://github.com/smallnest/rpcx) - Faster multil-language bidirectional RPC framework in Go, like alibaba Dubbo and weibo Motan in Java, but with more features, Scale easily.
 - [wechat](https://github.com/silenceper/wechat) - WeChat SDK for Go.
@@ -42,6 +48,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 
 - [socker](https://github.com/unioslo/socker) - A wrapper for secure running of Docker containers on Slurm
 - [self-driving-toy-car](https://github.com/experiencor/self-driving-toy-car) - A self driving toy car using end-to-end learning.
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - Build your own (insert technology here).
 
 ## Design/UI
 
