@@ -9,6 +9,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [Gophercloud](https://github.com/gophercloud/gophercloud) - Gophercloud is an OpenStack Go SDK.
 - [Beego](https://github.com/astaxie/beego) - beego is used for rapid development of RESTful APIs, web apps and backend services in Go.
 - [rpcx](https://github.com/smallnest/rpcx) - Faster multil-language bidirectional RPC framework in Go, like alibaba Dubbo and weibo Motan in Java, but with more features, Scale easily.
+- [wechat](https://github.com/silenceper/wechat) - WeChat SDK for Go.
 
 ## Tool
 
