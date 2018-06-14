@@ -25,6 +25,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [cloud-init](https://github.com/cloud-init/cloud-init) - :white_check_mark: The defacto multi-distribution package that handles early initialization of a cloud instance.
 - [go-proxy](https://github.com/snail007/goproxy) - :white_check_mark: Proxy is a high performance HTTP(S), websocket, TCP, UDP, Socks5 proxy server implemented by golang.
 - [ydict](https://github.com/TimothyYe/ydict) - :white_check_mark: Yet another command-line youdao dictionary for geeks!
+- [docz](https://github.com/pedronauck/docz) - It has never been so easy to document your things!
 
 ## Script/Code snippet
 
@@ -38,6 +39,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [pty](https://github.com/kr/pty) - :white_check_mark: Pty is a Go package for using unix pseudo-terminals.
 - [jwt-go](https://github.com/dgrijalva/jwt-go) - :white_check_mark: Golang implementation of JSON Web Tokens (JWT)
 - [wmi](https://github.com/StackExchange/wmi) - :white_check_mark: WMI for Go
+- [lodash](https://github.com/lodash/lodash) - :white_check_mark: A modern JavaScript utility library delivering modularity, performance, & extras.
 
 ## Project/Product
 
