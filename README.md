@@ -9,12 +9,13 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - I have used： :white_check_mark:
 - Funny: :stuck_out_tongue:
 
-## Framework/SDK
+## Platform/Framework/SDK
 
 - [Gophercloud](https://github.com/gophercloud/gophercloud) - :white_check_mark: Gophercloud is an OpenStack Go SDK.
 - [Beego](https://github.com/astaxie/beego) - :white_check_mark: beego is used for rapid development of RESTful APIs, web apps and backend services in Go.
 - [rpcx](https://github.com/smallnest/rpcx) - :white_check_mark: Faster multil-language bidirectional RPC framework in Go, like alibaba Dubbo and weibo Motan in Java, but with more features, Scale easily.
 - [wechat](https://github.com/silenceper/wechat) - :white_check_mark: WeChat SDK for Go.
+- [Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning.
 
 ## Tool
 
@@ -26,6 +27,9 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [go-proxy](https://github.com/snail007/goproxy) - :white_check_mark: Proxy is a high performance HTTP(S), websocket, TCP, UDP, Socks5 proxy server implemented by golang.
 - [ydict](https://github.com/TimothyYe/ydict) - :white_check_mark: Yet another command-line youdao dictionary for geeks!
 - [docz](https://github.com/pedronauck/docz) - It has never been so easy to document your things!
+- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+- [detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
+- [Dragonfly](https://github.com/alibaba/Dragonfly) - Dragonfly is an intelligent P2P based file distribution system.
 
 ## Script/Code snippet
 
@@ -46,6 +50,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [pcocc](https://github.com/cea-hpc/pcocc) - :white_check_mark: Run VMs on an HPC cluster
 - [runv](https://github.com/hyperhq/runv) - Hypervisor-based Runtime for OCI
 - [hyperd](https://github.com/hyperhq/hyperd) - HyperContainer Daemon
+- [tensorboard](https://github.com/tensorflow/tensorboard) - :white_check_mark: TensorFlow's Visualization Toolkit.
 
 ## Demo/Inspiration/Interesting
 
@@ -65,3 +70,4 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [awesome-ui](https://github.com/tipoqueno/awesome-ui) - A curated list of awesome things related to User Interface Design.
 - [react-native-guide](https://github.com/reactnativecn/react-native-guide) - React Native指南汇集了各类react-native学习资源、开源App和组件.
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
+- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师.
