@@ -51,6 +51,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [runv](https://github.com/hyperhq/runv) - Hypervisor-based Runtime for OCI
 - [hyperd](https://github.com/hyperhq/hyperd) - HyperContainer Daemon
 - [tensorboard](https://github.com/tensorflow/tensorboard) - :white_check_mark: TensorFlow's Visualization Toolkit.
+- [calico](https://github.com/projectcalico/calico) - Cloud native application connectivity and network policy.
 
 ## Demo/Inspiration/Interesting
 
