@@ -9,13 +9,14 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - I have used： :white_check_mark:
 - Funny: :stuck_out_tongue:
 
-## Platform/Framework/SDK
+## Platform/Framework/SDK/Language
 
 - [Gophercloud](https://github.com/gophercloud/gophercloud) - :white_check_mark: Gophercloud is an OpenStack Go SDK.
 - [Beego](https://github.com/astaxie/beego) - :white_check_mark: beego is used for rapid development of RESTful APIs, web apps and backend services in Go.
 - [rpcx](https://github.com/smallnest/rpcx) - :white_check_mark: Faster multil-language bidirectional RPC framework in Go, like alibaba Dubbo and weibo Motan in Java, but with more features, Scale easily.
 - [wechat](https://github.com/silenceper/wechat) - :white_check_mark: WeChat SDK for Go.
 - [Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning.
+- [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
 ## Tool
 
