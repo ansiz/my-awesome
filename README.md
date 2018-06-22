@@ -69,6 +69,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 
 ## Learn/Book/List
 
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - :white_check_mark: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 - [awesome-ui](https://github.com/tipoqueno/awesome-ui) - A curated list of awesome things related to User Interface Design.
 - [react-native-guide](https://github.com/reactnativecn/react-native-guide) - React Native指南汇集了各类react-native学习资源、开源App和组件.
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
