@@ -31,6 +31,8 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
 - [Dragonfly](https://github.com/alibaba/Dragonfly) - Dragonfly is an intelligent P2P based file distribution system.
+- [Gource](https://github.com/acaudwell/Gource) - :white_check_mark: :stuck_out_tongue: software version control visualization.
+- [hiper](https://github.com/pod4g/hiper) - :white_check_mark: A statistical analysis tool for performance testing.
 
 ## Script/Code snippet
 
@@ -45,6 +47,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [jwt-go](https://github.com/dgrijalva/jwt-go) - :white_check_mark: Golang implementation of JSON Web Tokens (JWT)
 - [wmi](https://github.com/StackExchange/wmi) - :white_check_mark: WMI for Go
 - [lodash](https://github.com/lodash/lodash) - :white_check_mark: A modern JavaScript utility library delivering modularity, performance, & extras.
+- [tview](https://github.com/rivo/tview) - This Go package provides commonly needed components for terminal based user interfaces.
 
 ## Project/Product
 
