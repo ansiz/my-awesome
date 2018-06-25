@@ -48,6 +48,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [wmi](https://github.com/StackExchange/wmi) - :white_check_mark: WMI for Go
 - [lodash](https://github.com/lodash/lodash) - :white_check_mark: A modern JavaScript utility library delivering modularity, performance, & extras.
 - [tview](https://github.com/rivo/tview) - This Go package provides commonly needed components for terminal based user interfaces.
+- [three.js](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
 
 ## Project/Product
 
