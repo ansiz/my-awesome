@@ -33,6 +33,8 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [Dragonfly](https://github.com/alibaba/Dragonfly) - Dragonfly is an intelligent P2P based file distribution system.
 - [Gource](https://github.com/acaudwell/Gource) - :white_check_mark: :stuck_out_tongue: software version control visualization.
 - [hiper](https://github.com/pod4g/hiper) - :white_check_mark: A statistical analysis tool for performance testing.
+- [senorprogrammer / wtf](https://github.com/senorprogrammer/wtf) - The personal information dashboard for your terminal.
+- [golang-standards / project-layout](https://github.com/golang-standards/project-layout) - :white_check_mark: Standard Go Project Layout.
 
 ## Script/Code snippet
 
@@ -49,6 +51,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [lodash](https://github.com/lodash/lodash) - :white_check_mark: A modern JavaScript utility library delivering modularity, performance, & extras.
 - [tview](https://github.com/rivo/tview) - This Go package provides commonly needed components for terminal based user interfaces.
 - [three.js](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
+- [ip2region](https://github.com/lionsoul2014/ip2region) - 最自由的ip地址查询库，ip到地区的映射库。
 
 ## Project/Product
 
@@ -57,6 +60,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [hyperd](https://github.com/hyperhq/hyperd) - HyperContainer Daemon
 - [tensorboard](https://github.com/tensorflow/tensorboard) - :white_check_mark: TensorFlow's Visualization Toolkit.
 - [calico](https://github.com/projectcalico/calico) - Cloud native application connectivity and network policy.
+- [runc](https://github.com/opencontainers/runc) - runc is a CLI tool for spawning and running containers according to the OCI specification.
 
 ## Demo/Inspiration/Interesting
 
@@ -80,3 +84,5 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师.
 - [standard](https://github.com/standard/standard) - JavaScript Style Guide, with linter & automatic code fixer.
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
+- [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
+- [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
