@@ -17,6 +17,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [wechat](https://github.com/silenceper/wechat) - :white_check_mark: WeChat SDK for Go.
 - [Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning.
 - [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [go-dockerclient](https://github.com/fsouza/go-dockerclient) - Go client for the Docker remote API.
 
 ## Tool
 
@@ -35,6 +36,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [hiper](https://github.com/pod4g/hiper) - :white_check_mark: A statistical analysis tool for performance testing.
 - [senorprogrammer / wtf](https://github.com/senorprogrammer/wtf) - The personal information dashboard for your terminal.
 - [golang-standards / project-layout](https://github.com/golang-standards/project-layout) - :white_check_mark: Standard Go Project Layout.
+- [jonas / tig](https://github.com/jonas/tig) - Text-mode interface for git.
 
 ## Script/Code snippet
 
@@ -52,6 +54,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [tview](https://github.com/rivo/tview) - This Go package provides commonly needed components for terminal based user interfaces.
 - [three.js](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
 - [ip2region](https://github.com/lionsoul2014/ip2region) - 最自由的ip地址查询库，ip到地区的映射库。
+- [satori / go.uuid](https://github.com/satori/go.uuid) - :white_check_mark: UUID package for Go.
 
 ## Project/Product
 
