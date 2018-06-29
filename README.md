@@ -55,6 +55,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [three.js](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
 - [ip2region](https://github.com/lionsoul2014/ip2region) - 最自由的ip地址查询库，ip到地区的映射库。
 - [satori / go.uuid](https://github.com/satori/go.uuid) - :white_check_mark: UUID package for Go.
+- [sirupsen / logrus](github.com/sirupsen/logrus) - :white_check_mark: Logrus is a structured logger for Go (golang), completely API compatible with the standard library logger.
 
 ## Project/Product
 
