@@ -37,6 +37,8 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [senorprogrammer / wtf](https://github.com/senorprogrammer/wtf) - The personal information dashboard for your terminal.
 - [golang-standards / project-layout](https://github.com/golang-standards/project-layout) - :white_check_mark: Standard Go Project Layout.
 - [jonas / tig](https://github.com/jonas/tig) - Text-mode interface for git.
+- [yangshun1029 / aria2gui](https://github.com/yangshun1029/aria2gui) - :white_check_mark: Aria2GUI for macOS.
+- [FiloSottile / mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 
 ## Script/Code snippet
 
