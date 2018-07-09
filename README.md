@@ -18,6 +18,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning.
 - [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [go-dockerclient](https://github.com/fsouza/go-dockerclient) - Go client for the Docker remote API.
+- [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
 
 ## Tool
 
@@ -58,6 +59,8 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [ip2region](https://github.com/lionsoul2014/ip2region) - 最自由的ip地址查询库，ip到地区的映射库。
 - [satori / go.uuid](https://github.com/satori/go.uuid) - :white_check_mark: UUID package for Go.
 - [sirupsen / logrus](github.com/sirupsen/logrus) - :white_check_mark: Logrus is a structured logger for Go (golang), completely API compatible with the standard library logger.
+- [Leaflet / Leaflet](https://github.com/Leaflet/Leaflet) - JavaScript library for mobile-friendly interactive maps
+- [tdewolff / minify](https://github.com/tdewolff/minify) - Go minifiers for web formats.
 
 ## Project/Product
 
@@ -73,6 +76,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [socker](https://github.com/unioslo/socker) - :white_check_mark: A wrapper for secure running of Docker containers on Slurm
 - [self-driving-toy-car](https://github.com/experiencor/self-driving-toy-car) - A self driving toy car using end-to-end learning.
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - :stuck_out_tongue: Build your own (insert technology here).
+- [OfficeDev / office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building experiences for Office and Office 365.
 
 ## Design/UI
 
@@ -92,3 +96,4 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
 - [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
