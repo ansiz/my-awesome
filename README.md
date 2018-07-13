@@ -59,8 +59,9 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [ip2region](https://github.com/lionsoul2014/ip2region) - 最自由的ip地址查询库，ip到地区的映射库。
 - [satori / go.uuid](https://github.com/satori/go.uuid) - :white_check_mark: UUID package for Go.
 - [sirupsen / logrus](github.com/sirupsen/logrus) - :white_check_mark: Logrus is a structured logger for Go (golang), completely API compatible with the standard library logger.
-- [Leaflet / Leaflet](https://github.com/Leaflet/Leaflet) - JavaScript library for mobile-friendly interactive maps
+- [Leaflet / Leaflet](https://github.com/Leaflet/Leaflet) - JavaScript library for mobile-friendly interactive maps.
 - [tdewolff / minify](https://github.com/tdewolff/minify) - Go minifiers for web formats.
+- [rtfpessoa / diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html).
 
 ## Project/Product
 
@@ -70,6 +71,8 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [tensorboard](https://github.com/tensorflow/tensorboard) - :white_check_mark: TensorFlow's Visualization Toolkit.
 - [calico](https://github.com/projectcalico/calico) - Cloud native application connectivity and network policy.
 - [runc](https://github.com/opencontainers/runc) - runc is a CLI tool for spawning and running containers according to the OCI specification.
+- [NVIDIA / nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs.
+- [BVLC / caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
 
 ## Demo/Inspiration/Interesting
 
