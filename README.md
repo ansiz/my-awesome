@@ -62,6 +62,9 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [Leaflet / Leaflet](https://github.com/Leaflet/Leaflet) - JavaScript library for mobile-friendly interactive maps.
 - [tdewolff / minify](https://github.com/tdewolff/minify) - Go minifiers for web formats.
 - [rtfpessoa / diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html).
+- [date-fns](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library.
+- [PuerkitoBio / goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
+- [gocolly / colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 
 ## Project/Product
 
@@ -100,3 +103,4 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
 - [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
+- [dwyl / learn-api-design](https://github.com/dwyl/learn-api-design) - Essential learning for people building APIs
