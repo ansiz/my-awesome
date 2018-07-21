@@ -40,6 +40,9 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [jonas / tig](https://github.com/jonas/tig) - Text-mode interface for git.
 - [yangshun1029 / aria2gui](https://github.com/yangshun1029/aria2gui) - :white_check_mark: Aria2GUI for macOS.
 - [FiloSottile / mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+- [fastpack](https://github.com/fastpack/fastpack) - Pack JS code fast & easy.
+- [cheat.sh](https://github.com/chubin/cheat.sh) - :white_check_mark: the only cheat sheet you need.
+- [GoogleChrome / lighthouse](https://github.com/GoogleChrome/lighthouse) - :white_check_mark: Auditing, performance metrics, and best practices for Progressive Web Apps.
 
 ## Script/Code snippet
 
@@ -65,6 +68,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [date-fns](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library.
 - [PuerkitoBio / goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
 - [gocolly / colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
+- [go-ini / ini](https://github.com/go-ini/ini) - :white_check_mark: Package ini provides INI file read and write functionality in Go.
 
 ## Project/Product
 
