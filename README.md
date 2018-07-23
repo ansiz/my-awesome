@@ -69,6 +69,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [PuerkitoBio / goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
 - [gocolly / colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [go-ini / ini](https://github.com/go-ini/ini) - :white_check_mark: Package ini provides INI file read and write functionality in Go.
+- [josdejong / mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js.
 
 ## Project/Product
 
