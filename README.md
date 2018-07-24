@@ -95,6 +95,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [ant-design](https://github.com/ant-design/ant-design) - A UI Design Language
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - Use Ant Design like a Pro!
 - [wired-elements](https://github.com/wiredjs/wired-elements) - Collection of elements that appear hand drawn. Great for wireframes.
+- [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 
 ## Learn/Book/List
 
