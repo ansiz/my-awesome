@@ -43,6 +43,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [fastpack](https://github.com/fastpack/fastpack) - Pack JS code fast & easy.
 - [cheat.sh](https://github.com/chubin/cheat.sh) - :white_check_mark: the only cheat sheet you need.
 - [GoogleChrome / lighthouse](https://github.com/GoogleChrome/lighthouse) - :white_check_mark: Auditing, performance metrics, and best practices for Progressive Web Apps.
+- [Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler which extracts urls, emails, files, website accounts and much more.
 
 ## Script/Code snippet
 
@@ -70,6 +71,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [gocolly / colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [go-ini / ini](https://github.com/go-ini/ini) - :white_check_mark: Package ini provides INI file read and write functionality in Go.
 - [josdejong / mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js.
+- [google / go-cloud](https://github.com/google/go-cloud) - A library and tools for open cloud development in Go.
 
 ## Project/Product
 
@@ -110,3 +112,4 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
 - [dwyl / learn-api-design](https://github.com/dwyl/learn-api-design) - Essential learning for people building APIs
+- [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
