@@ -44,6 +44,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [cheat.sh](https://github.com/chubin/cheat.sh) - :white_check_mark: the only cheat sheet you need.
 - [GoogleChrome / lighthouse](https://github.com/GoogleChrome/lighthouse) - :white_check_mark: Auditing, performance metrics, and best practices for Progressive Web Apps.
 - [Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler which extracts urls, emails, files, website accounts and much more.
+- [flatpak](https://github.com/flatpak/flatpak) - :white_check_mark: Linux application sandboxing and distribution framework (formerly xdg-app).
 
 ## Script/Code snippet
 
@@ -72,6 +73,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [go-ini / ini](https://github.com/go-ini/ini) - :white_check_mark: Package ini provides INI file read and write functionality in Go.
 - [josdejong / mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js.
 - [google / go-cloud](https://github.com/google/go-cloud) - A library and tools for open cloud development in Go.
+- [EnixCoda / safe-touch](https://github.com/EnixCoda/safe-touch) - Touch deeply buried property safely with ease.
 
 ## Project/Product
 
@@ -89,7 +91,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [socker](https://github.com/unioslo/socker) - :white_check_mark: A wrapper for secure running of Docker containers on Slurm
 - [self-driving-toy-car](https://github.com/experiencor/self-driving-toy-car) - A self driving toy car using end-to-end learning.
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - :stuck_out_tongue: Build your own (insert technology here).
-- [OfficeDev / office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building experiences for Office and Office 365.
+- [BBVA / kvm](https://github.com/BBVA/kvm) - :white_check_mark: Simple Docker KVM container.
 
 ## Design/UI
 
@@ -98,6 +100,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - Use Ant Design like a Pro!
 - [wired-elements](https://github.com/wiredjs/wired-elements) - Collection of elements that appear hand drawn. Great for wireframes.
 - [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
+- [OfficeDev / office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building experiences for Office and Office 365.
 
 ## Learn/Book/List
 
