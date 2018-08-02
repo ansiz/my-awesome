@@ -45,6 +45,8 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [GoogleChrome / lighthouse](https://github.com/GoogleChrome/lighthouse) - :white_check_mark: Auditing, performance metrics, and best practices for Progressive Web Apps.
 - [Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler which extracts urls, emails, files, website accounts and much more.
 - [flatpak](https://github.com/flatpak/flatpak) - :white_check_mark: Linux application sandboxing and distribution framework (formerly xdg-app).
+- [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art.
+- [jsinspect](https://github.com/danielstjules/jsinspect) - Detect copy-pasted and structurally similar code.
 
 ## Script/Code snippet
 
@@ -74,6 +76,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [josdejong / mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js.
 - [google / go-cloud](https://github.com/google/go-cloud) - A library and tools for open cloud development in Go.
 - [EnixCoda / safe-touch](https://github.com/EnixCoda/safe-touch) - Touch deeply buried property safely with ease.
+- [uber-go / zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 
 ## Project/Product
 
@@ -85,6 +88,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [runc](https://github.com/opencontainers/runc) - runc is a CLI tool for spawning and running containers according to the OCI specification.
 - [NVIDIA / nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs.
 - [BVLC / caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
+- [rancher/vm](https://github.com/rancher/vm) - Package and Run Virtual Machines as Docker Containers.
 
 ## Demo/Inspiration/Interesting
 
