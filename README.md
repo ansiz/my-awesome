@@ -47,6 +47,8 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [flatpak](https://github.com/flatpak/flatpak) - :white_check_mark: Linux application sandboxing and distribution framework (formerly xdg-app).
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art.
 - [jsinspect](https://github.com/danielstjules/jsinspect) - Detect copy-pasted and structurally similar code.
+- [novnc / websockify](https://github.com/novnc/websockify) - :white_check_mark: Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect to any application/server/service. Implementations in Python, C, Node.js and Ruby.
+- [spice-web-client](https://github.com/eyeos/spice-web-client) - :white_check_mark: A full featured and high performance SPICE web client written in Javascript and HTML5.
 
 ## Script/Code snippet
 
@@ -77,6 +79,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [google / go-cloud](https://github.com/google/go-cloud) - A library and tools for open cloud development in Go.
 - [EnixCoda / safe-touch](https://github.com/EnixCoda/safe-touch) - Touch deeply buried property safely with ease.
 - [uber-go / zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
+- [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web.
 
 ## Project/Product
 
