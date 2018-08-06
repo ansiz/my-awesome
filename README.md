@@ -49,6 +49,8 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [jsinspect](https://github.com/danielstjules/jsinspect) - Detect copy-pasted and structurally similar code.
 - [novnc / websockify](https://github.com/novnc/websockify) - :white_check_mark: Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect to any application/server/service. Implementations in Python, C, Node.js and Ruby.
 - [spice-web-client](https://github.com/eyeos/spice-web-client) - :white_check_mark: A full featured and high performance SPICE web client written in Javascript and HTML5.
+- [sphinx-doc / sphinx](https://github.com/sphinx-doc/sphinx) - :white_check_mark: Main repository for the Sphinx documentation builder.
+- [coreos / clair](https://github.com/coreos/clair) - Vulnerability Static Analysis for Containers.
 
 ## Script/Code snippet
 
@@ -92,6 +94,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [NVIDIA / nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs.
 - [BVLC / caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
 - [rancher/vm](https://github.com/rancher/vm) - Package and Run Virtual Machines as Docker Containers.
+- [vmware / harbor](https://github.com/vmware/harbor) - :white_check_mark: An open source trusted cloud native registry project that stores, signs, and scans content.
 
 ## Demo/Inspiration/Interesting
 
