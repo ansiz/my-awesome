@@ -95,6 +95,8 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [BVLC / caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
 - [rancher/vm](https://github.com/rancher/vm) - Package and Run Virtual Machines as Docker Containers.
 - [vmware / harbor](https://github.com/vmware/harbor) - :white_check_mark: An open source trusted cloud native registry project that stores, signs, and scans content.
+- [ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform.
+- [thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com.
 
 ## Demo/Inspiration/Interesting
 
