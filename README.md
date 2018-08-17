@@ -51,6 +51,10 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [spice-web-client](https://github.com/eyeos/spice-web-client) - :white_check_mark: A full featured and high performance SPICE web client written in Javascript and HTML5.
 - [sphinx-doc / sphinx](https://github.com/sphinx-doc/sphinx) - :white_check_mark: Main repository for the Sphinx documentation builder.
 - [coreos / clair](https://github.com/coreos/clair) - Vulnerability Static Analysis for Containers.
+- [cypress-io / cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
+- [swagger-ui](https://github.com/swagger-api/swagger-ui) - :white_check_mark: Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
+- [uber / go-torch](https://github.com/uber/go-torch) - Stochastic flame graph profiler for Go programs.
+- [rakyll / gom](https://github.com/rakyll/gom) - A visual interface to work with runtime profiling data for Go.
 
 ## Script/Code snippet
 
