@@ -55,6 +55,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [swagger-ui](https://github.com/swagger-api/swagger-ui) - :white_check_mark: Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [uber / go-torch](https://github.com/uber/go-torch) - Stochastic flame graph profiler for Go programs.
 - [rakyll / gom](https://github.com/rakyll/gom) - A visual interface to work with runtime profiling data for Go.
+- [nicolargo / glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative.
 
 ## Script/Code snippet
 
@@ -101,6 +102,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [vmware / harbor](https://github.com/vmware/harbor) - :white_check_mark: An open source trusted cloud native registry project that stores, signs, and scans content.
 - [ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform.
 - [thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com.
+- [julia](https://github.com/JuliaLang/julia) - The Julia Language: A fresh approach to technical computing.
 
 ## Demo/Inspiration/Interesting
 
@@ -108,6 +110,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [self-driving-toy-car](https://github.com/experiencor/self-driving-toy-car) - A self driving toy car using end-to-end learning.
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - :stuck_out_tongue: Build your own (insert technology here).
 - [BBVA / kvm](https://github.com/BBVA/kvm) - :white_check_mark: Simple Docker KVM container.
+- [open-source-ideas](https://github.com/open-source-ideas/open-source-ideas) - Ever had a cool idea to an Open Source project but didn't have the time to implement yourself? Let someone else give it a try!
 
 ## Design/UI
 
