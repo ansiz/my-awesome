@@ -87,12 +87,16 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [EnixCoda / safe-touch](https://github.com/EnixCoda/safe-touch) - Touch deeply buried property safely with ease.
 - [uber-go / zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web.
+- [netjson / netjson](https://github.com/netjson/netjson) - NetJSON is a data interchange format for encoding the basic building blocks of networks.
+- [netjson / netjsongraph.js](https://github.com/netjson/netjsongraph.js) - NetJSON NetworkGraph visualizer based on d3.js
+- [twitter / snowflake](https://github.com/twitter/snowflake) - :white_check_mark: Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.
 
 ## Project/Product
 
 - [pcocc](https://github.com/cea-hpc/pcocc) - :white_check_mark: Run VMs on an HPC cluster
 - [runv](https://github.com/hyperhq/runv) - Hypervisor-based Runtime for OCI
 - [hyperd](https://github.com/hyperhq/hyperd) - HyperContainer Daemon
+- [docker / compose](https://github.com/docker/compose) - :white_check_mark: Define and run multi-container applications with Docker.
 - [tensorboard](https://github.com/tensorflow/tensorboard) - :white_check_mark: TensorFlow's Visualization Toolkit.
 - [calico](https://github.com/projectcalico/calico) - Cloud native application connectivity and network policy.
 - [runc](https://github.com/opencontainers/runc) - runc is a CLI tool for spawning and running containers according to the OCI specification.
@@ -103,6 +107,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform.
 - [thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com.
 - [julia](https://github.com/JuliaLang/julia) - The Julia Language: A fresh approach to technical computing.
+- [convnetjs](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
 
 ## Demo/Inspiration/Interesting
 
