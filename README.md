@@ -56,6 +56,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [uber / go-torch](https://github.com/uber/go-torch) - Stochastic flame graph profiler for Go programs.
 - [rakyll / gom](https://github.com/rakyll/gom) - A visual interface to work with runtime profiling data for Go.
 - [nicolargo / glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative.
+- [kelseyhightower / confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
 
 ## Script/Code snippet
 
@@ -90,6 +91,8 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [netjson / netjson](https://github.com/netjson/netjson) - NetJSON is a data interchange format for encoding the basic building blocks of networks.
 - [netjson / netjsongraph.js](https://github.com/netjson/netjsongraph.js) - NetJSON NetworkGraph visualizer based on d3.js
 - [twitter / snowflake](https://github.com/twitter/snowflake) - :white_check_mark: Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.
+- [bramp / js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram
+- [emiliorizzo / vue-d3-network](https://github.com/emiliorizzo/vue-d3-network) - Vue component to graph networks using d3-force
 
 ## Project/Product
 
