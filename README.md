@@ -57,6 +57,9 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [rakyll / gom](https://github.com/rakyll/gom) - A visual interface to work with runtime profiling data for Go.
 - [nicolargo / glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative.
 - [kelseyhightower / confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
+- [homebrew-virt-manager](https://github.com/jeffreywildman/homebrew-virt-manager) - :white_check_mark: A set of homebrew formulae to install virt-manager and virt-viewer on MAC OSX
+- [Jarred-Sumner / styleurl-extension](https://github.com/Jarred-Sumner/styleurl-extension) - Share & export CSS tweaks from Chrome instantly.
+- [klauscfhq / taskbook](https://github.com/klauscfhq/taskbook) - Tasks, boards & notes for the command-line habitat.
 
 ## Script/Code snippet
 
