@@ -24,6 +24,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 
 - [webhook](https://github.com/adnanh/webhook) - :white_check_mark: webhook is a lightweight configurable incoming webhook server which can execute shell commands.
 - [travis-ci](https://github.com/travis-ci/travis-ci) - :white_check_mark: Free continuous integration platform for GitHub projects.
+- [ttyd](https://github.com/tsl0922/ttyd) - :white_check_mark: Share your terminal over the web
 - [Bat](https://github.com/sharkdp/bat) - :white_check_mark: A cat(1) clone with syntax highlighting and Git integration.
 - [FiraCode](https://github.com/tonsky/FiraCode) - :white_check_mark: Monospaced font with programming ligatures.
 - [cloud-init](https://github.com/cloud-init/cloud-init) - :white_check_mark: The defacto multi-distribution package that handles early initialization of a cloud instance.
@@ -60,6 +61,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [homebrew-virt-manager](https://github.com/jeffreywildman/homebrew-virt-manager) - :white_check_mark: A set of homebrew formulae to install virt-manager and virt-viewer on MAC OSX
 - [Jarred-Sumner / styleurl-extension](https://github.com/Jarred-Sumner/styleurl-extension) - Share & export CSS tweaks from Chrome instantly.
 - [klauscfhq / taskbook](https://github.com/klauscfhq/taskbook) - Tasks, boards & notes for the command-line habitat.
+- [styleurl-extension](https://github.com/Jarred-Sumner/styleurl-extension) - Share & export CSS tweaks from Chrome instantly.
 
 ## Script/Code snippet
 
@@ -96,6 +98,8 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [twitter / snowflake](https://github.com/twitter/snowflake) - :white_check_mark: Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.
 - [bramp / js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram
 - [emiliorizzo / vue-d3-network](https://github.com/emiliorizzo/vue-d3-network) - Vue component to graph networks using d3-force
+- [gka / chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations
+- [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - 中华新华字典数据库。包括歇后语，成语，词语，汉字。提供新华字典API。
 
 ## Project/Product
 
@@ -113,7 +117,9 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform.
 - [thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com.
 - [julia](https://github.com/JuliaLang/julia) - The Julia Language: A fresh approach to technical computing.
+- [NVIDIA / vid2vid](https://github.com/NVIDIA/vid2vid) - Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
 - [convnetjs](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
+- [qemu](https://github.com/qemu/qemu) - QEMU is a generic and open source machine emulator and virtualizer.
 
 ## Demo/Inspiration/Interesting
 
@@ -122,6 +128,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - :stuck_out_tongue: Build your own (insert technology here).
 - [BBVA / kvm](https://github.com/BBVA/kvm) - :white_check_mark: Simple Docker KVM container.
 - [open-source-ideas](https://github.com/open-source-ideas/open-source-ideas) - Ever had a cool idea to an Open Source project but didn't have the time to implement yourself? Let someone else give it a try!
+- [felixrieseberg / windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 
 ## Design/UI
 
@@ -146,3 +153,6 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
 - [dwyl / learn-api-design](https://github.com/dwyl/learn-api-design) - Essential learning for people building APIs
 - [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [计算机网络系统方法](https://github.com/SystemsApproach/book) - Meta-data and Makefile needed to build the book. Main starting point.
+- [cocoajin / http-api-design-ZH_CN](https://github.com/cocoajin/http-api-design-ZH_CN) - HTTP API 设计指南(http-api-design-ZH_CN)，翻译自https://github.com/interagent/http-api-design
+- [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - The only Front-End Performance Checklist that runs faster than the others
