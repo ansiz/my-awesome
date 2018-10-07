@@ -100,6 +100,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [emiliorizzo / vue-d3-network](https://github.com/emiliorizzo/vue-d3-network) - Vue component to graph networks using d3-force
 - [gka / chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations
 - [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - 中华新华字典数据库。包括歇后语，成语，词语，汉字。提供新华字典API。
+- [webtorrent / webtorrent](https://github.com/webtorrent/webtorrent) - :white_check_mark: Streaming torrent client for the web.
 
 ## Project/Product
 
