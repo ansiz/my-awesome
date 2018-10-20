@@ -62,6 +62,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [Jarred-Sumner / styleurl-extension](https://github.com/Jarred-Sumner/styleurl-extension) - Share & export CSS tweaks from Chrome instantly.
 - [klauscfhq / taskbook](https://github.com/klauscfhq/taskbook) - Tasks, boards & notes for the command-line habitat.
 - [styleurl-extension](https://github.com/Jarred-Sumner/styleurl-extension) - Share & export CSS tweaks from Chrome instantly.
+- [DIYgod / RSSHub](https://github.com/DIYgod/RSSHub) - 万物皆可 RSS.
 
 ## Script/Code snippet
 
@@ -101,6 +102,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [gka / chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations
 - [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - 中华新华字典数据库。包括歇后语，成语，词语，汉字。提供新华字典API。
 - [webtorrent / webtorrent](https://github.com/webtorrent/webtorrent) - :white_check_mark: Streaming torrent client for the web.
+- [antvis / f2](https://github.com/antvis/f2) - An elegant, interactive and flexible charting library for mobile.
 
 ## Project/Product
 
@@ -130,6 +132,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [BBVA / kvm](https://github.com/BBVA/kvm) - :white_check_mark: Simple Docker KVM container.
 - [open-source-ideas](https://github.com/open-source-ideas/open-source-ideas) - Ever had a cool idea to an Open Source project but didn't have the time to implement yourself? Let someone else give it a try!
 - [felixrieseberg / windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+- [copy / v86](https://github.com/copy/v86) - x86 virtualization in JavaScript, running in your browser and NodeJS.
 
 ## Design/UI
 
@@ -157,3 +160,6 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [计算机网络系统方法](https://github.com/SystemsApproach/book) - Meta-data and Makefile needed to build the book. Main starting point.
 - [cocoajin / http-api-design-ZH_CN](https://github.com/cocoajin/http-api-design-ZH_CN) - HTTP API 设计指南(http-api-design-ZH_CN)，翻译自https://github.com/interagent/http-api-design
 - [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - The only Front-End Performance Checklist that runs faster than the others
+- [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) - Computer Science Learning Notes
+- [everything-curl](https://github.com/bagder/everything-curl) - :white_check_mark: The book documenting the curl project, the curl tool, libcurl and everything related to this.
+- [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题
