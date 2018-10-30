@@ -63,6 +63,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [klauscfhq / taskbook](https://github.com/klauscfhq/taskbook) - Tasks, boards & notes for the command-line habitat.
 - [styleurl-extension](https://github.com/Jarred-Sumner/styleurl-extension) - Share & export CSS tweaks from Chrome instantly.
 - [DIYgod / RSSHub](https://github.com/DIYgod/RSSHub) - 万物皆可 RSS.
+- [awilliam / rom-parser](https://github.com/awilliam/rom-parser) - ROM parser and fixer.
 
 ## Script/Code snippet
 
@@ -103,6 +104,8 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - 中华新华字典数据库。包括歇后语，成语，词语，汉字。提供新华字典API。
 - [webtorrent / webtorrent](https://github.com/webtorrent/webtorrent) - :white_check_mark: Streaming torrent client for the web.
 - [antvis / f2](https://github.com/antvis/f2) - An elegant, interactive and flexible charting library for mobile.
+- [google / tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
+- [signintech / gopdf](https://github.com/signintech/gopdf) - A simple library for generating PDF written in Go lang.
 
 ## Project/Product
 
