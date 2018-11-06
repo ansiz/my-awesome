@@ -19,6 +19,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [go-dockerclient](https://github.com/fsouza/go-dockerclient) - Go client for the Docker remote API.
 - [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
+- [ember.js](https://github.com/emberjs/ember.js) - Ember.js is a JavaScript framework that greatly reduces the time, effort and resources needed to build any web application.
 
 ## Tool
 
@@ -126,6 +127,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [NVIDIA / vid2vid](https://github.com/NVIDIA/vid2vid) - Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
 - [convnetjs](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
 - [qemu](https://github.com/qemu/qemu) - QEMU is a generic and open source machine emulator and virtualizer.
+- [seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! SeaweedFS implements an object store with O(1) disk seek, and an optional Filer with POSIX interface.
 
 ## Demo/Inspiration/Interesting
 
