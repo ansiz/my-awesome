@@ -168,3 +168,4 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) - Computer Science Learning Notes
 - [everything-curl](https://github.com/bagder/everything-curl) - :white_check_mark: The book documenting the curl project, the curl tool, libcurl and everything related to this.
 - [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题
+- [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide) - :white_check_mark: 中文技术文档的写作规范
